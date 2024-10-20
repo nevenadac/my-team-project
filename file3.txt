@@ -1,4 +1,4 @@
-linija
+linija izmjena
 nova linija
 treca linija
 jos jedna nova linija
