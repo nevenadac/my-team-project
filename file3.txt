@@ -1,4 +1,4 @@
 linija izmjena
-nova linija
+nova linija kreiranje merge konflikta
 treca linija
 jos jedna nova linija
