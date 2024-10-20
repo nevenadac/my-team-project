@@ -1,2 +1,3 @@
 linija
 nova linija
+treca linija
