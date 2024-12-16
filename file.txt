@@ -1,2 +1,3 @@
 nova linija
 jos jedna linija
+line 3
